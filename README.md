@@ -28,6 +28,6 @@ Technologies used:
 - HTML
 - CSS (CSS was used with UIkit)
 - Javascript
-- JQuiery
+- JQuery
 - Firebase
 - Ajax
